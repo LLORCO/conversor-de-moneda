@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="de8933bf-d21d-4104-aa94-508ed5e86d44" name="Changes" comment="" />
+    <list default="true" id="de8933bf-d21d-4104-aa94-508ed5e86d44" name="Changes" comment="Commit inicial: Configuración básica de la estructura de la aplicación Java&#10;&#10;- Inicializado proyecto con Maven&#10;&#10;Este commit establece los cimientos para la aplicación Java, proporcionando una base sobre la cual construir.&#10;&#10;Signed-off-by: Jorge Luis &lt;jlhc1996@gmail.com&gt;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jorge Luis &lt;jlhc1996@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -35,6 +44,47 @@
       <option name="presentableId" value="Default" />
       <updated>1719958737924</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit inicial: Configuración básica de la estructura de la aplicación Java&#10;&#10;- Inicializado proyecto con Maven&#10;&#10;Este commit establece los cimientos para la aplicación Java, proporcionando una base sobre la cual construir.">
+      <option name="closed" value="true" />
+      <created>1719958983125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719958983125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit inicial: Configuración básica de la estructura de la aplicación Java&#10;&#10;- Inicializado proyecto con Maven&#10;&#10;Este commit establece los cimientos para la aplicación Java, proporcionando una base sobre la cual construir.">
+      <option name="closed" value="true" />
+      <created>1719959047185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719959047185</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit inicial: Configuración básica de la estructura de la aplicación Java&#10;&#10;- Inicializado proyecto con Maven&#10;&#10;Este commit establece los cimientos para la aplicación Java, proporcionando una base sobre la cual construir.&#10;&#10;Signed-off-by: Jorge Luis &lt;jlhc1996@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1719959051046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719959051046</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit inicial: Configuración básica de la estructura de la aplicación Java&#10;&#10;- Inicializado proyecto con Maven&#10;&#10;Este commit establece los cimientos para la aplicación Java, proporcionando una base sobre la cual construir." />
+    <MESSAGE value="Commit inicial: Configuración básica de la estructura de la aplicación Java&#10;&#10;- Inicializado proyecto con Maven&#10;&#10;Este commit establece los cimientos para la aplicación Java, proporcionando una base sobre la cual construir.&#10;&#10;Signed-off-by: Jorge Luis &lt;jlhc1996@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial: Configuración básica de la estructura de la aplicación Java&#10;&#10;- Inicializado proyecto con Maven&#10;&#10;Este commit establece los cimientos para la aplicación Java, proporcionando una base sobre la cual construir.&#10;&#10;Signed-off-by: Jorge Luis &lt;jlhc1996@gmail.com&gt;" />
   </component>
 </project>
